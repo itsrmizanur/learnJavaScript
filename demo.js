@@ -10,5 +10,12 @@ comment */
 
 console.log("comment");
 
+
+// #06 JavaScript Comment
+
+// var let const
+
+
+
 // end of day 2;
-// #03, #04, #05 done
+// #03, #04, #05, #06 done
