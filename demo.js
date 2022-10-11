@@ -1,8 +1,14 @@
+let k = "hi";
+let num = 5678;
+document.getElementById("demo").innerHTML = k + " " + num;
 
-document.getElementById("demo").innerHTML = 11;
+//single line comment
 
+/* Multi
+line
+comment */
 
-console.log("Hi");
+console.log("comment");
 
-// end od day 2;
-// #00, #01, #02 done
+// end of day 2;
+// #03, #04, #05 done
